@@ -1,12 +1,14 @@
 
 # English and French Translation using IBM Watson's API Language Translator Service
 
+This project was completed as a part of the Honors portion of the [Python Project for AI & Application Development](https://www.coursera.org/learn/python-project-for-ai-application-development) Course on [Coursera](https://www.coursera.org/).
 
+Credit to IBM and the Coursera platform for providing the course materials and guidance.
 
 
 ## Objective
 
-You are working for an IT services company and your company has just won a big project with an hotel in Quebec, Canada serving customers with a large French-speaking population. While most communication will happen in English, there is a scope for personal touch if French is used in communication. You are going to develop some chatbots for the client. The chances that the customer base the client is dealing with is largely French-speaking is high. So you would like to develop a server with end points that allow you to translate from English to French and from French to English.
+As an employee of an IT services company, I have been assigned to a significant project for a Quebec-based hotel in Canada, catering to a predominantly French-speaking customer base. Although most communication will occur in English, there is an opportunity to incorporate a personal touch by using French in certain interactions. My primary objective is to develop chatbots for the client, and considering the high proportion of French-speaking customers, I aim to create a server with endpoints that facilitate seamless translation between English and French languages. This translation capability will enhance the customer experience and ensure effective communication between the hotel and its clientele.
 
 ## Results
 
